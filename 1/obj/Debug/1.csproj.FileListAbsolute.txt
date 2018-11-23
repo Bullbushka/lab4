@@ -1,0 +1,9 @@
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\bin\Debug\1.exe.config
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\bin\Debug\1.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\bin\Debug\1.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\obj\Debug\1.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\4\1\obj\Debug\1.pdb

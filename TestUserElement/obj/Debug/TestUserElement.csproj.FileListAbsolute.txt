@@ -1,0 +1,13 @@
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\bin\Debug\TestUserElement.exe.config
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\bin\Debug\TestUserElement.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\bin\Debug\TestUserElement.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\bin\Debug\UserInput.dll
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\bin\Debug\UserInput.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.csprojAssemblyReference.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.Form1.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.Properties.Resources.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.csproj.GenerateResource.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.csproj.CoreCompileInputs.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.csproj.CopyComplete
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\4\TestUserElement\obj\Debug\TestUserElement.pdb
